@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Personal Blog
+title: Ryoguritno Corners
 ---
 
 # 🌟 Welcome to My World! 🌟
@@ -17,9 +17,9 @@ Want to see more? I've made it super easy to find what you're looking for. Just 
 <details>
   <summary>Explore More</summary>
   <ul>
-    <li><a href="link-to-daily-tasks">🗓️ Daily Tasks</a></li>
-    <li><a href="link-to-documentation">📚 Documentation</a></li>
-    <li><a href="link-to-other-resources">🔗 Other Resources</a></li>
+    <li><a href="daily-tasks/README.md">🗓️ Daily Tasks</a></li>
+    <li><a href="docs/README.md">📚 Documentation</a></li>
+    <li><a href="others/README.md">🔗 Other Resources</a></li>
   </ul>
 </details>
 
